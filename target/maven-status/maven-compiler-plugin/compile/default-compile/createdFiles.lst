@@ -1,0 +1,14 @@
+si\best\job\ever\mongo\Klass.class
+si\best\job\ever\dao\LectureRepository.class
+si\best\job\ever\springboot\SpringBootRestApiApp.class
+si\best\job\ever\mongo\Student.class
+com\websystique\springboot\util\CustomErrorType.class
+si\best\job\ever\dao\StudentRepository.class
+si\best\job\ever\dao\UserService.class
+si\best\job\ever\controller\StudentController.class
+si\best\job\ever\dao\KlassRepository.class
+si\best\job\ever\springboot\CreateTestData.class
+si\best\job\ever\dao\UserServiceImpl.class
+si\best\job\ever\controller\RestApiController.class
+si\best\job\ever\mongo\User.class
+si\best\job\ever\mongo\Lecture.class
